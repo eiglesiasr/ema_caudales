@@ -12,6 +12,7 @@ Desarrollar un modelo de pronóstico del caudal diario para el embalse San Loren
 
 ### Estructura de carpetas
 
+```
 Estimacion_Caudales_Jaguas
 │   README.md			# Descripcion
 │   
@@ -26,4 +27,5 @@ Estimacion_Caudales_Jaguas
 │   │ 5_LSTM_univariado.ipynb			# Experimento LSTM Kaggle
 │   │ 6_LSTM_multivariado.ipynb		# Experimento LSTM 2 Kaggle
 │   │ 7_SARIMAX.ipynb				# Experimento SARIMAX
-│                 
+│
+```
